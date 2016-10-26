@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  streetnumber: 1
+  streetname: MyString
+  unit: MyString
+  city: MyString
+  country: MyString
+  rating: 1
+  comment: MyText
+
+two:
+  streetnumber: 1
+  streetname: MyString
+  unit: MyString
+  city: MyString
+  country: MyString
+  rating: 1
+  comment: MyText
